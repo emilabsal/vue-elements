@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import InputUi from "@/components/ui/InputUi.vue";
+import InputUi from "@/components/ui/UInput.vue";
 
 export default {
   components: {

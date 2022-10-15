@@ -1,14 +1,14 @@
 <template>
-  <buttons-u />
+  <u-buttons />
 </template>
 
 <script>
-import ButtonsU from "./views/ButtonsU.vue";
+import UButtons from "./views/UButtons.vue";
 
 export default {
   name: "App",
   components: {
-    ButtonsU,
+    UButtons,
   },
 };
 </script>
